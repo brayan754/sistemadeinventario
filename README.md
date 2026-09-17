@@ -1,0 +1,2 @@
+# sistemadeinventario
+registro de productos
